@@ -1,5 +1,17 @@
 # 🛠️ Penetration Testing Toolkit
 
+*COMPANY NAME*: CODTECH IT SOLUTIONS 
+
+*NAME": MOHAN HARISH E
+
+*INTERN ID*: CT04DH2589
+
+*DOMAIN*:CYBER SECURITY AND ETHICAL HACKING 
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTHOSH KUMAR 
+
 This is a Python-based modular penetration testing toolkit that includes essential recon and scanning tools to help identify weaknesses in web applications and systems.
 
 ## 🚀 Features
